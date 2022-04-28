@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BT_combine_001</string>
+    <string name="TYPE_SERVER">TYPE_SERVER</string>
+    <string name="TYPE_CLIENT">TYPE_CLIENT</string>
+</resources>
